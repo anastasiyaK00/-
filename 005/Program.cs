@@ -12,13 +12,14 @@ int c=Convert.ToInt32(Console.ReadLine());
 
 if (max<b) 
 {
-max=b;
+max=b; 
 }
 if (max<c) 
 {
 max=c; 
 }
-System.Console.WriteLine($"max={max}"); //Здесь запуталась, как вывести именно с буквой, т.е чтобы 
+    System.Console.WriteLine($"max={max}"); 
+
    
     
         
